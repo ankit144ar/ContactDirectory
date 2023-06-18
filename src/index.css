@@ -1,0 +1,6 @@
+.ui.menu:first-child{
+    padding:25px 0;
+}
+.ui.menu:first-child .center{
+    justify-content: center;
+}

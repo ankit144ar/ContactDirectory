@@ -1,0 +1,12 @@
+.content img{
+    width: 40px;
+    border-radius: 50%;
+    top: 2px;
+    position: relative;
+}
+.content{
+    width: calc(100% - 20px);
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
